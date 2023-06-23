@@ -29,7 +29,7 @@ check out the dataset used : [Dataset link](https://www.kaggle.com/datasets/vika
 - 📸 Receive the cropped image from the frontend as a multipart/form-data request.
 - 🧠 Perform image recognition using the ResNet50 model.
 - 📋 Generate a JSON response with recommended images.
-- 💾 Integrate with Django's database for data storage and retrieval (if required).
+- 💾 Integrate with Django's database for data storage and retrieval (if required)
 
 
 
