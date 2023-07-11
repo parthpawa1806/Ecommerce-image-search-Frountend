@@ -6,7 +6,11 @@ An E-commerce Image Search app built with Flutter and Django. The app allows use
 
 ## Demo
 
-Check out the demo of the app: [Demo Link](https://drive.google.com/file/d/14NEXouCcqeNHqASsVvN0iv2XHEGzvi6o/view?usp=drivesdk)
+Check out the demo of the app: [Demo Link](https://drive.google.com/file/d/18QHjAHwCdP2N7N076v8aYIM5907EIC6M/view?usp=drivesdk)
+
+## APK
+
+Check out the demo of the app: [Demo Link](https://drive.google.com/file/d/1F5IyMUECJ7UFZ6Z0Hzxtz2lpvK5hiFZc/view?usp=drivesdk)
 
 ## Dataset
 
