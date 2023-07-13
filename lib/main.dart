@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
 
       title: 'Product Search',
       theme: ThemeData(
-        primarySwatch: Colors.purple,
+        primarySwatch: Colors.green,
         fontFamily: 'poppins',
       ),
       home: HomeScreen(),
